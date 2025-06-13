@@ -1,3 +1,4 @@
+This project is only for learning purpose not for scam or stealing data for users
 # 🛒 Amazon Landing Page Clone
 
 A static clone of the **Amazon homepage** built using **HTML** and **CSS**. This mini project is great for beginners who want to practice layout design, CSS styling, and hover effects. It replicates the core structure of the Amazon website with a clean UI.
