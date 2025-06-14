@@ -43,5 +43,6 @@ Install the Live Server extension
 Right-click on index.html → "Open with Live Server"
 
 
-Licence:
+📜 License
+
 This project is intended for educational purposes only.
