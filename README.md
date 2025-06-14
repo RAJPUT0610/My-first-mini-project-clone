@@ -41,5 +41,7 @@ Open the project folder in Visual Studio Code
 Install the Live Server extension
 
 Right-click on index.html → "Open with Live Server"
+
+
 Licence:
 This project is intended for educational purposes only.
